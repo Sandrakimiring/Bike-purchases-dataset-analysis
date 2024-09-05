@@ -61,6 +61,11 @@ The analysis was conducted entirely in Excel, involving the following steps:
 - Segmentation analysis based on customer demographics (age, gender, income).
 - Price analysis to determine the most popular bike models and price ranges.
 
+
+  ## DASHBOARD IMAGE
+  <img width="941" alt="image" src="https://github.com/user-attachments/assets/bf1a77b4-b4be-4629-a120-98f9094f2750">
+
+
 ### Data Visualization
 
 #### Avg Income Per Purchase
